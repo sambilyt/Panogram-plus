@@ -1,0 +1,50 @@
+{
+  "name": "panogram-plus-plus",
+  "version": "1.0.0",
+  "description": "Advanced web-based pedigree editor with enhanced visual exports and professional color schemes",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "test": "echo \"Open index.html in a web browser to test\" && exit 1"
+  },
+  "keywords": [
+    "pedigree",
+    "genealogy",
+    "genetics",
+    "family-tree",
+    "medical-genetics",
+    "web-app",
+    "svg",
+    "visualization"
+  ],
+  "author": "Panogram++ Team",
+  "contributors": [
+    {
+      "name": "Sambili Tonny",
+      "role": "Enhanced visual exports- svg,png and html exports"
+    },
+    {
+      "name": "Christopher Michaelides",
+      "role": "Original Panogram author"
+    },
+    {
+      "name": "Andrej Griniuk", 
+      "role": "Original Panogram author"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/panogram-plus-plus"
+  },
+  "homepage": "https://github.com/your-username/panogram-plus-plus",
+  "bugs": {
+    "url": "https://github.com/your-username/panogram-plus-plus/issues"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
